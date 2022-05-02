@@ -1,3 +1,3 @@
-Microservice Composition as event-based choreography of BPMN fragments. Evolution demo
+# Microservice Composition as event-based choreography of BPMN fragments. Evolution demo
 
 Microservices need to be composed to support the business processes of organizations. With the aim of maintaining a lower coupling among micro-services, these compositions are usually implemented by means of event-based choreographies. One of the main challenges to face by choreographies is their evolution due to the complexity that introduces the need of integrating changes among autonomous and independent partners. This video shows how we face the challenge of evolving a microservice composition that is globally defined in a BPMN model but executed through a choreography of BPMN fragments.
